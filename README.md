@@ -1,0 +1,1 @@
+WhatsApp Blast is a feature that allows you to send mass messages simultaneously without having to save user numbers. So, this feature is very effective and efficient for reaching many users at once. Additionally, it should be noted that there is a difference between WhatsApp Broadcast and Blast. And here I created a Landing Page to support sales from WhatsApp Blast.
